@@ -1,0 +1,5 @@
+memperkecil rentang tipe data ke rentang tipe data yang lebih kecil akan menghilangan nilai Aslinya. Jika nilai asli jumlahnya berada di luar jangkauan tipe data target.
+
+Casting: 
+
+Jika: Float/Integer = Float
